@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanaelmehari
 - 👀 I’m interested in python,js,football and movies
-- 🌱my website https://nathanaelportofolio.web.app/
+- 🌱my website https://nathanael-portofolio.web.app/
 - 💞️ I’m looking to collaborate on any projects related to socketprogramming,React,Trojans,Ransomwares.....just name it
 - 📫 How to reach me (Email:nathanaelmehari0@gmail.com)
 
